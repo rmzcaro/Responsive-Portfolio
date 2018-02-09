@@ -123,42 +123,16 @@ input,textarea {
 
 /**** Media Queries ***/
 
-@media only screen and (max-width: 980px){
-
-    
+@media screen and max-width (980px) {
 }
 
-@media only screen and (max-width:768px) {
-
-   
+@media screen and max-width (768px) {
 }
 
-@media only screen and (max-width: 640px){
+@media screen and max-width (640px) {
+}
 
-    .about-page article h2+img, article img {
-        float:none;
-        width:95%;
-    }
-
-    #content_container {
-        margin-top: 11em;
-        margin-bottom: 1em;
-    }
-
-    #top_container {
-        background-position: 100% center;
-    }
-
-    header nav{
-        width: 70vw;
-        margin-bottom: -2em;
-        opacity: 0.96;
-        font-weight: bold;
-    }
-
-    header #sitename {
-        opacity: 0.96;
-    }
-
-
+#header {
+    max-width: 640px;
+    width: 100%; 
 }
