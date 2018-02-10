@@ -132,7 +132,26 @@ input,textarea {
 @media screen and max-width (640px) {
 }
 
-#header {
-    max-width: 640px;
-    width: 100%; 
-}
+/*Index Section */
+
+<!--980 index change width of About Me Section-->
+
+<!--768 index move connect me section below About Me-->
+
+<!--640 index move name into a wide header and make profile picture bigger add about me section below picture-->
+
+/*Portfolio Section*/
+
+<!--980 portfolio change width of portfolio to smaller to where icons are stacked -->
+
+<!--768 portfolio move connect me section below Portfolio-->
+
+<!--640 index move name into a wide header and make profile picture bigger -->
+
+/*Contact Section*/
+
+<!--980 contact form stays the same  -->
+
+<!--768 contact is wider, the connect me section is now below form -->
+
+<!--640  name is bigger and in a wide header navigation section follows and connect me section is the the bottom above footer -->
